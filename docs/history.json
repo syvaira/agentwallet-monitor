@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-08-11T11:02:19Z",
+    "passed": 58,
+    "failed": 0,
+    "warnings": 53,
+    "overall": "pass",
+    "rank": 1,
+    "zero_spend": true
+  },
+  {
     "timestamp": "2026-08-11T10:09:59Z",
     "passed": 60,
     "failed": 0,
@@ -886,15 +895,6 @@
     "passed": 65,
     "failed": 0,
     "warnings": 46,
-    "overall": "pass",
-    "rank": 2,
-    "zero_spend": true
-  },
-  {
-    "timestamp": "2026-08-08T06:00:43Z",
-    "passed": 53,
-    "failed": 0,
-    "warnings": 58,
     "overall": "pass",
     "rank": 2,
     "zero_spend": true
